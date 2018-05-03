@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-jwt-body",
+  "version": "0.0.1",
+  "author": "Tuxer <e.yulian@gmail.com>",
+  "description": "Insomnia JWT Body Encoder",
+  "main": "insomnia_plugin_jwt_body.js",
+  "insomnia": {
+    "name": "JWT_Body"
+  }
+}
