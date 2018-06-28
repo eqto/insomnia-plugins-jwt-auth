@@ -1,9 +1,9 @@
 const crypto = require('crypto');
 
 module.exports.templateTags = [{
-    name: 'jwtbody',
-    displayName: 'JWT Body',
-    description: 'Generate JWT',
+    name: 'jwtauth',
+    displayName: 'JWT Auth',
+    description: 'Generate JWT Authorization',
     args: [
         {
             displayName: 'Payload',
